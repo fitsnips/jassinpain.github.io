@@ -1,13 +1,13 @@
 # Site settings
 title: mrmiller
-email: your-email@domain.com
+email: jsm+iamspam@fitsnips.net
 description: > # this means to ignore newlines until "baseurl:"
 A simple home of Joshua SS Miller and his random stuff that might not
 matter to anyone. FYI its Jassin (Jason) Pain I have to say that due to 
 the letters a s and s being in it everyone read some odd stuff. Its just 
 old RP character name.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://mrmiller2.nonesensedomains.com" # the base hostname & protocol for your site
 twitter_username: jassinpain
 github_username:  jassinpain
 
